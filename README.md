@@ -24,7 +24,7 @@ I work at the intersection of healthcare, technology, research and business. My 
 ## Recognition
 
 - Winner, Masters’ Union MBA Summer School National Startup Competition (2026), for the MAYA venture concept.
-- National-level swimming.
+- Third place in National-level swimming for 50m freestyle.
 
 ## Skills
 
