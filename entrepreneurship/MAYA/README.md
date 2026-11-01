@@ -14,8 +14,5 @@ MAYA was developed as an early-stage venture concept focused on making midlife w
 
 The venture was developed and pitched at the Masters’ Union MBA Summer School National Startup Competition, where it was selected as the winner among 50 competing teams from across India.
 
-## Pitch deck
-[View the MAYA pitch deck (PDF)](MAYA-pitch-deck.pdf)
-
 ## Project stage
 The deck represents an early-stage business concept and proposed strategy. It should not be interpreted as evidence of a launched product or validated commercial performance.
